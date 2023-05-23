@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='flex w-full bg-gray-500 p-10 rounded-full'>Index</div>
+    <div className='flex w-full bg-sky-800 p-10 text-white rounded-full'>Emlak</div>
   )
 }
 
